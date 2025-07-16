@@ -119,3 +119,16 @@ python predict_mask_lin.py \
     --full_eval_size (256, 256, 128) \
     --eval_task vessel_tissue
 ```
+### 4. Breast Region Segmentation
+
+```bash
+python predict_mask_lin.py \
+    --preprocessed_dir demo_preprocessed \
+    --save_dir demo_result/breast \
+    --load_path weight/vnet_baseline_breast_full_9511.pth \
+    --sequence_df_path demo.csv \
+    --patch_size 96 \
+    --out_channel 3 \
+    --full_eval_size (256, 256, 128) \
+    --eval_task full_breast
+```
