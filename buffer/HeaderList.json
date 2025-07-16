@@ -1,0 +1,43 @@
+[
+    {
+        "space origin": [
+            180.394,
+            138.539,
+            -105.0
+        ],
+        "space directions": [
+            [
+                -0.6641,
+                -0.0,
+                0.0
+            ],
+            [
+                -0.0,
+                -0.6641,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                2.0
+            ]
+        ],
+        "kinds": [
+            "domain",
+            "domain",
+            "domain"
+        ],
+        "encoding": "gzip",
+        "space": "left-posterior-superior",
+        "Segment0_Name": "vessel",
+        "Segment1_Name": "tissue",
+        "Segment0_ID": "Segment_1",
+        "Segment1_ID": "Segment_2",
+        "Segment0_LabelValue": "1",
+        "Segment1_LabelValue": "2",
+        "Segment0_Layer": "0",
+        "Segment1_Layer": "0",
+        "Segment0_Color": "0.847059 0.396078 0.309804",
+        "Segment1_Color": "0.901961 0.862745 0.27451"
+    }
+]

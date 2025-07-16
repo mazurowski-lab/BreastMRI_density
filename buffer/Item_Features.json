@@ -1,0 +1,23 @@
+{
+    "path": [
+        "100899T0.npy"
+    ],
+    "split": [
+        "val"
+    ],
+    "ISFlip": [
+        false
+    ],
+    "XYFlip": [
+        false
+    ],
+    "Padded": [
+        0
+    ],
+    "xy_size": [
+        512
+    ],
+    "z_size": [
+        106
+    ]
+}

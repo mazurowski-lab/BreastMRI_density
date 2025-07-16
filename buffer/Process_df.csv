@@ -1,0 +1,2 @@
+Study_Name,Sequence_path,filenames,ISFlip,XYFlip,Padded,xy_size,z_size
+100899T0,demo_raw/500.000000-ISPY2 AX VIBRANT-SERIES-52523,100899T0.npy,False,False,0,512,106
