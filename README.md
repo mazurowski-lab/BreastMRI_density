@@ -1,3 +1,13 @@
+# Breast density in MRI: an AI-based quantification and relationship to assessment in mammography
+
+**By [Yaqian Chen](https://scholar.google.com/citations?user=iegKFuQAAAAJ&hl=en), [Lin Li]([https://scholar.google.com/citations?user=aGjCpQUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=uRHrZUkAAAAJ&hl=zh-CN&authuser=1)), [Hanxue Gu](https://scholar.google.com/citations?user=aGjCpQUAAAAJ&hl=en&oi=ao), [Haoyu Dong](https://scholar.google.com/citations?user=eZVEUCIAAAAJ&hl=en&oi=ao), [Derek L. Nguyen](#), [Allan D. Kirk](#), and [Maciej A. Mazurowski](https://scholar.google.com/citations?user=HlxjJPQAAAAJ&hl=en&oi=ao)**
+
+Please email [yaqian.chen@duke.edu](mailto:yaqian.chen@duke.edu) for any problem with this code.
+---
+[![arXiv](https://img.shields.io/badge/arXiv-2502.09779-b31b1b.svg)](https://arxiv.org/abs/2504.15192)
+
+Download the required model weight, demo_preprocessed, demo_raw, demo_result folder from [this Google Drive folder](https://drive.google.com/drive/folders/1QWPbxk6qKoB1Yc1QHCDjIfgWOIGLri4T?usp=sharing). Make sure to select the appropriate files for your configuration.
+
 # BreastMRI_density
 
 This is a deep learning-based breast MRI automatic segmentation and breast density calculation code. It can perform fibroglandular tissue (FGT), vessel, as well as breast region segmentation, on pre-contrast breast MRI images.
